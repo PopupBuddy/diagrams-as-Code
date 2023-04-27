@@ -1,5 +1,9 @@
 ![diagrams logo](assets/img/diagrams.png)
 
+
+# You can also ask ChatGPT to translate anything into plantUML
+https://devlearner.substack.com/p/maximizing-your-software-design-potential
+
 # Diagrams
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
